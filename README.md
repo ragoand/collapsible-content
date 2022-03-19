@@ -1,4 +1,4 @@
-These are two WordPress shortcode to add a collapsible HTML content div and a box with a title and some HTML content below it.
+These are two WordPress shortcode to add a collapsible HTML content div and a box with a title and some HTML content below it. [How to use a shortcode](https://wordpress.com/support/shortcodes/)
 
 # How to use the collapsible content shortcode
 Hide and show some content with a click on a button. To use the shortcode:
