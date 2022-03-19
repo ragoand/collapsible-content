@@ -1,0 +1,24 @@
+.collapsible-content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.collapsible-content-container > .collapsible-content {
+    display: none;
+}
+
+.collapsible-content-container > .collapsible-button {
+    cursor: pointer;
+}
+
+.collapsible-content-container > .collapsible-button > .read-less {
+    display: none;
+}
+
+.collapsible-content-container > .collapsible-button.open > .read-less {
+    display: block;
+}
+
+.collapsible-content-container > .collapsible-button.open > .read-more {
+    display: none;
+}
